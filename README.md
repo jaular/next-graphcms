@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+More information: [GraphCMS Youtube](https://www.youtube.com/watch?v=4rYbSlE6m6A), [GraphCMS Blog](https://graphcms.com/blog/working-with-nextauth-and-user-generated-content), [GraphCMS Github](https://github.com/GraphCMS/graphcms-examples)
+
 ## Getting Started
 
 First, run the development server:
