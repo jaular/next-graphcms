@@ -1,6 +1,6 @@
 import type { Content } from "lib/types";
-import Link from "next/link";
 import Image from "next/image";
+import Link from "next/link";
 import { RichText } from "@graphcms/rich-text-react-renderer";
 
 type Props = {
